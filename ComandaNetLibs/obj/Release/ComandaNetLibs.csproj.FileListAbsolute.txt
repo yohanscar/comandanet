@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\Comanda_net\ComandaNetLibs\bin\Release\ComandaNetLibs.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Comanda_net\ComandaNetLibs\bin\Release\ComandaNetLibs.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Comanda_net\ComandaNetLibs\bin\Release\ComandaDataLibs.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Comanda_net\ComandaNetLibs\bin\Release\ComandaFrmak.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Comanda_net\ComandaNetLibs\bin\Release\ComandaDataLibs.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Comanda_net\ComandaNetLibs\bin\Release\ComandaFrmak.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Comanda_net\ComandaNetLibs\obj\Release\ComandaNetLibs.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\Comanda_net\ComandaNetLibs\obj\Release\ComandaNetLibs.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Comanda_net\ComandaNetLibs\obj\Release\ComandaNetLibs.pdb

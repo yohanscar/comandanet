@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Comanda_net.Abrir_Consumo" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAQAACAAAACAAAIAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Abrir_Consumo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Comanda_net.Adicionar_Produto_base" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAABCAAAIAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Adicionar_Produto_base.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Comanda_net.Cadastra_cliente" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAIAACAAABASAACAAABCIAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Cadastra_cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Comanda_net.Cadastrar_Usuario" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAABCIAAIAAAAMAAAAAAAAAA=</HashCode>
+      <FileName>Cadastrar_Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Comanda_net.Detalhar_Comanda" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAICASAFABAAAACAAAACIEg4BAAAAEAAABAAAAA=</HashCode>
+      <FileName>Detalhar_Comanda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Comanda_net.Detalhar_Historico" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAg4BAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Detalhar_Historico.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Comanda_net.Inteface_principal" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQAAgAAGACAAAAACAACSAIAiIMU7gEAEhHQAAgAgagA=</HashCode>
+      <FileName>Interface_Principal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Comanda_net.Listar_Comandas_Abertas" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAACgACAAAACAAg4BwAAAAAAAAAAAAA=</HashCode>
+      <FileName>Listar_Comandas_Abertas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Comanda_net.login" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACBAABAAAACAMAACAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Comanda_net.Menu_Recepcao" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAMQ7AAAAABAAAAAAAAA=</HashCode>
+      <FileName>Menu_Recepcao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Comanda_net.Pesquisa_Historico" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABASAACAAAACAAAYAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Pesquisa_Historico.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Comanda_net.Program" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Comanda_net.Selecionar_Comanda" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACACAACAAAIAAAAEEAAIAAAAAA=</HashCode>
+      <FileName>Selecionar_Comanda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Comanda_net.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Comanda_net.Properties.Settings" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

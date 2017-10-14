@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\Comanda_net\ComandaDataLibs\obj\Debug\ComandaDataLibs.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\Comanda_net\ComandaDataLibs\bin\Debug\ComandaDataLibs.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Comanda_net\ComandaDataLibs\bin\Debug\ComandaDataLibs.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Comanda_net\ComandaDataLibs\obj\Debug\ComandaDataLibs.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Comanda_net\ComandaDataLibs\obj\Debug\ComandaDataLibs.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Comanda_net\ComandaDataLibs\bin\Debug\ComandaFrmak.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Comanda_net\ComandaDataLibs\bin\Debug\ComandaFrmak.pdb

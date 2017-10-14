@@ -1,0 +1,4 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\Comanda_net\ComandaFrmak\bin\Release\ComandaFrmak.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Comanda_net\ComandaFrmak\bin\Release\ComandaFrmak.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Comanda_net\ComandaFrmak\obj\Release\ComandaFrmak.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Comanda_net\ComandaFrmak\obj\Release\ComandaFrmak.pdb

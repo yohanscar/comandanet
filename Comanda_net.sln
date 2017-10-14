@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comanda_net", "Comanda_net\Comanda_net.csproj", "{3FB596BB-6FE8-49C3-AD63-4DFADF02F1C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComandaNetLibs", "ComandaNetLibs\ComandaNetLibs.csproj", "{0E03079A-0907-4694-AF1B-35C700791E61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComandaDataLibs", "ComandaDataLibs\ComandaDataLibs.csproj", "{F99DD314-6195-4582-8688-D04DF691A071}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComandaFrmk", "ComandaFrmak\ComandaFrmk.csproj", "{69888ACE-FD78-4492-9523-381C27B33F4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FB596BB-6FE8-49C3-AD63-4DFADF02F1C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FB596BB-6FE8-49C3-AD63-4DFADF02F1C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FB596BB-6FE8-49C3-AD63-4DFADF02F1C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FB596BB-6FE8-49C3-AD63-4DFADF02F1C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E03079A-0907-4694-AF1B-35C700791E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E03079A-0907-4694-AF1B-35C700791E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E03079A-0907-4694-AF1B-35C700791E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E03079A-0907-4694-AF1B-35C700791E61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F99DD314-6195-4582-8688-D04DF691A071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F99DD314-6195-4582-8688-D04DF691A071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F99DD314-6195-4582-8688-D04DF691A071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F99DD314-6195-4582-8688-D04DF691A071}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69888ACE-FD78-4492-9523-381C27B33F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69888ACE-FD78-4492-9523-381C27B33F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69888ACE-FD78-4492-9523-381C27B33F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69888ACE-FD78-4492-9523-381C27B33F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
